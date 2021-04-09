@@ -11,8 +11,8 @@
 - **Http requests**
 
 ## How to launch it?
-The page was deployed in a GitHub page so you can enjoy it without downloading anything. 
-This is the [link to the Demo](https://juanpipereira.github.io/Angular-Tutorial-MyStore/)
+This is the [link to the Demo](https://juanpipereira.github.io/Angular-Tutorial-MyStore/).
+The page was deployed in a GitHub page so you can enjoy it without downloading anything!
 
 You can also test it on your own device by following these steps:
 
