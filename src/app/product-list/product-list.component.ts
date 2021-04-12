@@ -13,8 +13,8 @@ export class ProductListComponent {
     window.alert('The product has been shared!');
   }
 
-  onNotify() {
-    window.alert('You will be notified when price is lower than $700');
+  onNotify($event: number) {
+    window.alert('You will be notified when price is lower than $' + $event);
   }
 }
 
