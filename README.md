@@ -2,13 +2,12 @@
 ### A simple e-commerce web app with catalog, shopping cart, and check-out form that covers the basics of Angular framework. This introductive tutorial is from the [official Angular page](https://angular.io/start)
 
 ## Topics covered
+- **Routing using angular Router** Organices the routes of the pages in a single module
 - **Structural directives** Shape or reshape the DOM's structure, by adding, removing, and manipulating elements (*\*ngFor, \*ngIf..*)
 - **Interpolation** Converts elements properties to text to be used (*{{ product.name }}*)
 - **Property Binding** Permits to use a element property value in a template expression (*[title]= "product.name"*)
 - **Event Binding** Permits to call a event directly from the template (*(click)= "buy()"*)
-- **Input and Output Decorators** Allow data transference between parent and child components
-- **Routing using angular Router**
-- **Http requests**
+- **Input and Output Decorators** Allow objects and events transference between parent and child components (*<app-product-alerts [product]="product" (notify)="onNotify()"></app- product-alerts>*)
 
 ## How to launch it?
 This is the [link to the Demo](https://juanpipereira.github.io/Angular-Tutorial-MyStore/).
